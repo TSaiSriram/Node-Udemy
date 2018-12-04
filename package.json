@@ -1,0 +1,25 @@
+{
+  "name": "node-udemy",
+  "version": "1.0.0",
+  "description": "This is a learning node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TSaiSriram/Node-Udemy.git"
+  },
+  "author": "Tekumalla Sai Sriram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TSaiSriram/Node-Udemy/issues"
+  },
+  "homepage": "https://github.com/TSaiSriram/Node-Udemy#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
