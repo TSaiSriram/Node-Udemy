@@ -1,5 +1,5 @@
 now=$(date +"%m.%d.%Y_%T")
-dir=$("/projects/node-udemy")
+dir=$("/projects/node-udemy/*")
 echo -e '\n'
 echo "autocommit $dir $now" 
 echo "--------------------------" 
