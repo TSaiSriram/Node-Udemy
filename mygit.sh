@@ -1,10 +1,7 @@
 now=$(date +"%m.%d.%Y_%T")
-#dir=$("/projects/node-udemy/*")
-echo -e '\n'
-echo "autocommit * $now" 
-echo "--------------------------" 
+#dir=$("/projects/node-udemy/")
 cd $dir
-git add . >> $logfile
+git add .
 git commit -am "autocommit $now"
 git push origin master
 git add *
