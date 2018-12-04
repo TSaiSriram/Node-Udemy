@@ -1,6 +1,5 @@
 now=$(date +"%m.%d.%Y_%T")
-dir="/projects/node-udemy"
-cd dir
+cd /projects/node-udemy
 #git add .
 git commit -am "autocommit $now"
 git push origin master
