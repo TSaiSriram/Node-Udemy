@@ -2,4 +2,4 @@
 git add * 
 git push origin master
 git commit -a -m "autoupdate `date +%F-%T`"
-#git push
+git push
