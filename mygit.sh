@@ -1,5 +1,5 @@
 now=$(date +"%m.%d.%Y_%T")
-#dir=$("/projects/node-udemy/")
+dir=$("/projects/node-udemy/")
 cd $dir
 git add .
 git commit -am "autocommit $now"
