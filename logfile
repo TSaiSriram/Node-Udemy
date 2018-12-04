@@ -1,0 +1,5 @@
+[master 35374b5] autoupdate 2018-12-04-12:47:52
+ 3 files changed, 7 insertions(+)
+ create mode 100644 "\r"
+ create mode 100644 logfile
+ create mode 100755 mygit.sh
