@@ -1,1 +1,1 @@
-cd /projects/node-udemy && git add -A && git commit *  -m "Auto commited `date +'%Y-%m-%d %H:%M:%S'`" && git push 
+cd /projects/node-udemy && git add --all && git commit *  -m "Auto commited `date +'%Y-%m-%d %H:%M:%S'`" && git push 
