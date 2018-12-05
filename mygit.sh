@@ -1,3 +1,2 @@
-`git add * `
-`git commit -m "autocommit date"`
-`git push origin master`
+
+cd /projects/node-udemy && git add -A && git commit * --allow-empty-message -m ''
