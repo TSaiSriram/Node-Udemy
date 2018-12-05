@@ -1,1 +1,1 @@
-cd /projects/node-udemy && git add -A && git commit * --allow-empty-message -m '' && git push 
+cd /projects/node-udemy && git add -A && git commit *  -m ' Auto commited $date ' && git push 
