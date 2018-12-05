@@ -1,3 +1,3 @@
-
-git commit -m "autocommit $now" 
-git push origin master 
+`git add *`
+`git commit -m "autocommit date"`
+`git push origin master`
